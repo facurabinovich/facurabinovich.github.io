@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header h1 {
+  font-size: 28px !important;
+  line-height: 1.2;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  order: 3;
+  margin-top: 20px;
+}
