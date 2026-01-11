@@ -1,8 +1,9 @@
-## Portfolio
+## Selected projects in data science, analytics, machine learning and deep learning
 
 ---
 
-### Category Name 1 
+### Deep NLP for hate speech detection
+ 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
