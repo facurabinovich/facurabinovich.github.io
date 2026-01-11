@@ -1,13 +1,9 @@
 title: Facundo Rabinovich # your name (or website title) here
 logo: "images/personal-photo.jpg?raw=true" # your photo (or logo) here
 description: >
-
-  Systems Engineer with ~2 years in data analytics, 
-  now transitioning into Data Science.
+  Systems Engineer with ~2 years in data analytics, now transitioning into Data Science.
   Building projects in analytics, ML, and data engineering.
-  
   <a href="https://www.linkedin.com/in/facundo-rabinovich">View My LinkedIn Profile</a>
-  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
