@@ -3,6 +3,7 @@ logo: "images/personal-photo2.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   Systems Engineer with ~2 years in data analytics, now transitioning into Data Science.
+  <br><br>
   Building projects in analytics, ML, and data engineering.
   <br><br>
   <a href="https://www.linkedin.com/in/facundo-rabinovich/">View my LinkedIn Profile</a> 
@@ -12,3 +13,4 @@ google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 colors:
   crimson: '#900C3F'
+
