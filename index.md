@@ -23,14 +23,17 @@ Full-stack music analytics and playlist intelligence platform powered by Spotify
 
 Python · MySQL · Streamlit · scikit-learn · Plotly · Spotify API
 
-### Live App
+<div class="project-actions">
+  <a class="project-button" href="https://www.tailorlist.app/" target="_blank">Live Demo</a>
+  <a class="project-button secondary" href="https://github.com/facurabinovich" target="_blank">GitHub Repo</a>
+</div>
 
-👉 https://www.tailorlist.app/
-
-<img src="images/tailorlist_1.png?raw=true"/>
-<img src="images/tailorlist_2.png?raw=true"/>
-<img src="images/tailorlist_3.png?raw=true"/>
-<img src="images/tailorlist_4.png?raw=true"/>
+<div class="project-gallery">
+  <img src="images/tailorlist_1.png?raw=true"/>
+  <img src="images/tailorlist_2.png?raw=true"/>
+  <img src="images/tailorlist_3.png?raw=true"/>
+  <img src="images/tailorlist_4.png?raw=true"/>
+</div>
 
 ---
 # 🎾 ATP Tennis Match Predictor
@@ -50,22 +53,24 @@ End-to-end ML system trained on 66k+ ATP matches (2000–2024).
 
 Python · LightGBM · scikit-learn · pandas · MySQL · Streamlit
 
-### Live App
+<div class="project-actions">
+  <a class="project-button" href="https://facustennispredictor.streamlit.app/" target="_blank">Live Demo</a>
+  <a class="project-button secondary" href="https://github.com/facurabinovich" target="_blank">GitHub Repo</a>
+</div>
 
-👉 https://facustennispredictor.streamlit.app/
-
-<img src="images/tennis_1.png?raw=true"/>
-<img src="images/tennis_2.png?raw=true"/>
-<img src="images/tennis_3.png?raw=true"/>
+<div class="project-gallery">
+  <img src="images/tennis_1.png?raw=true"/>
+  <img src="images/tennis_2.png?raw=true"/>
+  <img src="images/tennis_3.png?raw=true"/>
+</div>
 
 ---
 
-
 ## About Me
 
-Systems Engineer focused on Data Science, Machine Learning, and Analytics.
+Systems Engineer and Data Analyst focused on Machine Learning, analytics, and end-to-end data products.
 
-Currently working as a Data Analyst building ETL pipelines, dashboards, and ML-driven solutions using Python, SQL, and cloud technologies.
+Currently building ML systems, ETL pipelines, and interactive analytics applications using Python, SQL, and cloud technologies.
 
 Interested in:
 
@@ -120,7 +125,7 @@ Interested in:
 
 ---
 
-<p style="font-size:11px">
+<p style="font-size:11px; color: #8b949e;">
 Template originally forked from 
-<a href="https://github.com/evanca/quick-portfolio">evanca</a>
+<a href="https://github.com/evanca/quick-portfolio" style="color: #58a6ff;">evanca</a>
 </p>
