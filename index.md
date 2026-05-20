@@ -25,7 +25,7 @@ Python · MySQL · Streamlit · scikit-learn · Plotly · Spotify API
 
 <div class="project-actions">
   <a class="project-button" href="https://www.tailorlist.app/" target="_blank">Live Demo</a>
-  <a class="project-button secondary" href="https://github.com/facurabinovich" target="_blank">GitHub Repo</a>
+  <a class="project-button secondary" href="https://github.com/facurabinovich/tailorlist" target="_blank">GitHub Repo</a>
 </div>
 
 <div class="project-gallery">
@@ -55,7 +55,7 @@ Python · LightGBM · scikit-learn · pandas · MySQL · Streamlit
 
 <div class="project-actions">
   <a class="project-button" href="https://facustennispredictor.streamlit.app/" target="_blank">Live Demo</a>
-  <a class="project-button secondary" href="https://github.com/facurabinovich" target="_blank">GitHub Repo</a>
+  <a class="project-button secondary" href="https://github.com/facurabinovich/tennis-match-predictor" target="_blank">GitHub Repo</a>
 </div>
 
 <div class="project-gallery">
