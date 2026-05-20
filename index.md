@@ -4,6 +4,35 @@ Building end-to-end data products combining machine learning, analytics, ETL pip
 
 ---
 
+# 🎵 Tailorlist
+
+Full-stack music analytics and playlist intelligence platform powered by Spotify data.
+
+### Features
+
+* Spotify API integration
+* Automated ETL pipelines
+* MySQL star schema
+* Audio feature analysis
+* Playlist comparison
+* Duplicate detection
+* Clustering and classification models
+* Interactive multi-page web application
+
+### Tech Stack
+
+Python · MySQL · Streamlit · scikit-learn · Plotly · Spotify API
+
+### Live App
+
+👉 https://www.tailorlist.app/
+
+<img src="images/tailorlist_1.png?raw=true"/>
+<img src="images/tailorlist_2.png?raw=true"/>
+<img src="images/tailorlist_3.png?raw=true"/>
+<img src="images/tailorlist_4.png?raw=true"/>
+
+---
 # 🎾 ATP Tennis Match Predictor
 
 End-to-end ML system trained on 66k+ ATP matches (2000–2024).
@@ -31,34 +60,6 @@ Python · LightGBM · scikit-learn · pandas · MySQL · Streamlit
 
 ---
 
-# 🎵 Tailorlist
-
-Full-stack music analytics and playlist intelligence platform powered by Spotify data.
-
-### Features
-
-* Spotify API integration
-* Automated ETL pipelines
-* MySQL star schema
-* Audio feature analysis
-* Playlist comparison
-* Duplicate detection
-* Clustering and classification models
-* Interactive multi-page web application
-
-### Tech Stack
-
-Python · MySQL · Streamlit · scikit-learn · Plotly · Spotify API
-
-### Live App
-
-👉 https://www.tailorlist.app/
-
-<img src="images/tailorlist_1.png?raw=true"/>
-<img src="images/tailorlist_2.png?raw=true"/>
-<img src="images/tailorlist_3.png?raw=true"/>
-
----
 
 ## About Me
 
