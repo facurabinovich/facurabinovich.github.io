@@ -3,11 +3,95 @@
 
 @import "{{ site.theme }}";
 
+/* --- Global Dark Theme Overrides --- */
+body {
+    background-color: #0f1117 !important;
+    color: #e6edf3 !important;
+}
+
+/* Ensures the main container matches the dark theme background */
+.wrapper, .container, main {
+    background-color: #0f1117 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff !important;
+}
+
 header h1 {
-  font-size: 28px !important;  // Default is 32px, adjust as needed
+  font-size: 28px !important; 
   line-height: 1.2;
 }
 
+a {
+    color: #58a6ff !important;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    border-color: #30363d !important;
+}
+
 footer {
-  display: none !important;  // This removes the footer completely
+  display: none !important; 
+}
+
+/* --- Project Button Styles --- */
+.project-actions {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    display: flex;
+    gap: 10px;
+}
+
+.project-button {
+    display: inline-block;
+    padding: 10px 18px;
+    background: #238636 !important;
+    color: white !important;
+    border-radius: 8px;
+    text-decoration: none !important;
+    font-weight: 600;
+    font-size: 14px;
+    transition: opacity 0.2s ease;
+}
+
+.project-button.secondary {
+    background: #30363d !important;
+}
+
+.project-button:hover {
+    opacity: 0.85;
+    text-decoration: none !important;
+}
+
+/* --- Image Gallery Grid --- */
+.project-gallery {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.project-gallery img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    border: 1px solid #30363d;
+    transition: transform 0.2s ease;
+}
+
+.project-gallery img:hover {
+    transform: scale(1.02);
+}
+
+/* Responsive adjustment for small screens / mobile phones */
+@media (max-width: 600px) {
+    .project-gallery {
+        grid-template-columns: 1fr;
+    }
 }
