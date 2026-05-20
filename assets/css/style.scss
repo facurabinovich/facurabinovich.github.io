@@ -9,13 +9,19 @@ body {
     color: #e6edf3 !important;
 }
 
-/* Ensures the main container matches the dark theme background */
-.wrapper, .container, main {
+/* Fixes container backgrounds */
+.wrapper, .container, main, section {
     background-color: #0f1117 !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
     color: #ffffff !important;
+}
+
+/* FIX: Forces all bold text/metrics to be bright white and readable */
+strong, b {
+    color: #ffffff !important;
+    font-weight: bold;
 }
 
 header h1 {
@@ -68,30 +74,26 @@ footer {
     text-decoration: none !important;
 }
 
-/* --- Image Gallery Grid --- */
+/* --- Image Gallery Layout (Fixed to 1-Column for Maximum Size) --- */
 .project-gallery {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 12px;
-    margin-top: 20px;
-    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 25px;
+    margin-bottom: 35px;
+    width: 100%;
 }
 
 .project-gallery img {
     width: 100%;
+    max-width: 100%;
     height: auto;
     border-radius: 10px;
     border: 1px solid #30363d;
     transition: transform 0.2s ease;
+    display: block;
 }
 
 .project-gallery img:hover {
-    transform: scale(1.02);
-}
-
-/* Responsive adjustment for small screens / mobile phones */
-@media (max-width: 600px) {
-    .project-gallery {
-        grid-template-columns: 1fr;
-    }
+    transform: scale(1.01);
 }
