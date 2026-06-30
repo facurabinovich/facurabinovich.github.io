@@ -31,17 +31,17 @@ Conversational banking assistant combining **Tool Calling** and **RAG** built on
 ### Tech Stack
 
 <div class="tech-stack">
-  <span class="tech-badge">Python</span>
+  <span class="tech-badge"><i class="devicon-python-plain colored"></i> Python</span>
   <span class="tech-badge">Anthropic Claude API</span>
   <span class="tech-badge">ChromaDB</span>
   <span class="tech-badge">VoyageAI</span>
-  <span class="tech-badge">Flask</span>
-  <span class="tech-badge">SQLite</span>
-  <span class="tech-badge">Docker</span>
+  <span class="tech-badge"><i class="devicon-flask-original"></i> Flask</span>
+  <span class="tech-badge"><i class="devicon-sqlite-plain colored"></i> SQLite</span>
+  <span class="tech-badge"><i class="devicon-docker-plain colored"></i> Docker</span>
 </div>
 
 <div class="project-actions">
-  <a class="project-button secondary" href="https://github.com/facurabinovich/crm-ai" target="_blank">⬡ GitHub Repo</a>
+  <a class="project-button secondary" href="https://github.com/facurabinovich/crm-ai" target="_blank">GitHub Repo</a>
 </div>
 
 **Tool Calling** — Claude consulta saldo, fechas y límite de tarjeta en tiempo real:
@@ -77,17 +77,17 @@ Full-stack music analytics and playlist intelligence platform powered by Spotify
 ### Tech Stack
 
 <div class="tech-stack">
-  <span class="tech-badge">Python</span>
-  <span class="tech-badge">MySQL</span>
-  <span class="tech-badge">Streamlit</span>
-  <span class="tech-badge">scikit-learn</span>
+  <span class="tech-badge"><i class="devicon-python-plain colored"></i> Python</span>
+  <span class="tech-badge"><i class="devicon-mysql-plain colored"></i> MySQL</span>
+  <span class="tech-badge"><i class="devicon-streamlit-plain colored"></i> Streamlit</span>
+  <span class="tech-badge"><i class="devicon-scikitlearn-plain colored"></i> scikit-learn</span>
   <span class="tech-badge">Plotly</span>
   <span class="tech-badge">Spotify API</span>
 </div>
 
 <div class="project-actions">
-  <a class="project-button" href="https://www.tailorlist.app/" target="_blank">↗ Live Demo</a>
-  <a class="project-button secondary" href="https://github.com/facurabinovich/tailorlist" target="_blank">⬡ GitHub Repo</a>
+  <a class="project-button" href="https://www.tailorlist.app/" target="_blank">Live Demo</a>
+  <a class="project-button secondary" href="https://github.com/facurabinovich/tailorlist" target="_blank">GitHub Repo</a>
 </div>
 
 <div class="project-gallery">
@@ -116,17 +116,17 @@ End-to-end ML system trained on 66k+ ATP matches (2000–2024).
 ### Tech Stack
 
 <div class="tech-stack">
-  <span class="tech-badge">Python</span>
+  <span class="tech-badge"><i class="devicon-python-plain colored"></i> Python</span>
   <span class="tech-badge">LightGBM</span>
-  <span class="tech-badge">scikit-learn</span>
-  <span class="tech-badge">pandas</span>
-  <span class="tech-badge">MySQL</span>
-  <span class="tech-badge">Streamlit</span>
+  <span class="tech-badge"><i class="devicon-scikitlearn-plain colored"></i> scikit-learn</span>
+  <span class="tech-badge"><i class="devicon-pandas-plain colored"></i> pandas</span>
+  <span class="tech-badge"><i class="devicon-mysql-plain colored"></i> MySQL</span>
+  <span class="tech-badge"><i class="devicon-streamlit-plain colored"></i> Streamlit</span>
 </div>
 
 <div class="project-actions">
-  <a class="project-button" href="https://facustennispredictor.streamlit.app/" target="_blank">↗ Live Demo</a>
-  <a class="project-button secondary" href="https://github.com/facurabinovich/tennis-match-predictor" target="_blank">⬡ GitHub Repo</a>
+  <a class="project-button" href="https://facustennispredictor.streamlit.app/" target="_blank">Live Demo</a>
+  <a class="project-button secondary" href="https://github.com/facurabinovich/tennis-match-predictor" target="_blank">GitHub Repo</a>
 </div>
 
 <div class="project-gallery">
@@ -159,10 +159,10 @@ Interested in:
 ### Languages & Databases
 
 <div class="tech-stack">
-  <span class="tech-badge">Python</span>
-  <span class="tech-badge">SQL · MySQL</span>
-  <span class="tech-badge">SQLite</span>
-  <span class="tech-badge">Bash</span>
+  <span class="tech-badge"><i class="devicon-python-plain colored"></i> Python</span>
+  <span class="tech-badge"><i class="devicon-mysql-plain colored"></i> MySQL</span>
+  <span class="tech-badge"><i class="devicon-sqlite-plain colored"></i> SQLite</span>
+  <span class="tech-badge"><i class="devicon-bash-plain"></i> Bash</span>
 </div>
 
 ### AI Engineering
@@ -173,19 +173,19 @@ Interested in:
   <span class="tech-badge">RAG</span>
   <span class="tech-badge">ChromaDB</span>
   <span class="tech-badge">VoyageAI</span>
-  <span class="tech-badge">Docker</span>
+  <span class="tech-badge"><i class="devicon-docker-plain colored"></i> Docker</span>
 </div>
 
 ### Data Science & ML
 
 <div class="tech-stack">
-  <span class="tech-badge">pandas</span>
-  <span class="tech-badge">NumPy</span>
-  <span class="tech-badge">scikit-learn</span>
+  <span class="tech-badge"><i class="devicon-pandas-plain colored"></i> pandas</span>
+  <span class="tech-badge"><i class="devicon-numpy-plain colored"></i> NumPy</span>
+  <span class="tech-badge"><i class="devicon-scikitlearn-plain colored"></i> scikit-learn</span>
   <span class="tech-badge">LightGBM</span>
   <span class="tech-badge">XGBoost</span>
-  <span class="tech-badge">TensorFlow</span>
-  <span class="tech-badge">PyTorch</span>
+  <span class="tech-badge"><i class="devicon-tensorflow-original colored"></i> TensorFlow</span>
+  <span class="tech-badge"><i class="devicon-pytorch-plain colored"></i> PyTorch</span>
 </div>
 
 ### Data Engineering & Visualization
@@ -193,7 +193,7 @@ Interested in:
 <div class="tech-stack">
   <span class="tech-badge">ETL Pipelines</span>
   <span class="tech-badge">REST APIs</span>
-  <span class="tech-badge">Streamlit</span>
+  <span class="tech-badge"><i class="devicon-streamlit-plain colored"></i> Streamlit</span>
   <span class="tech-badge">Plotly</span>
   <span class="tech-badge">Power BI</span>
   <span class="tech-badge">Knowage</span>
@@ -202,10 +202,10 @@ Interested in:
 ### Cloud & Deployment
 
 <div class="tech-stack">
-  <span class="tech-badge">AWS</span>
+  <span class="tech-badge"><i class="devicon-amazonwebservices-plain-wordmark colored"></i> AWS</span>
   <span class="tech-badge">Railway</span>
   <span class="tech-badge">Neon</span>
-  <span class="tech-badge">Streamlit Cloud</span>
+  <span class="tech-badge"><i class="devicon-streamlit-plain colored"></i> Streamlit Cloud</span>
 </div>
 
 </div>
