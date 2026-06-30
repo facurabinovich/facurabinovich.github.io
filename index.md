@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <div class="project-nav">
   <a href="#crm-ai">🏦 CRM AI</a>
   <a href="#tailorlist">🎵 Tailorlist</a>

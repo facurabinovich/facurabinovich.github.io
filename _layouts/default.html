@@ -18,6 +18,15 @@
    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+   <!-- Inline dark mode guarantee — overrides theme CSS regardless of SCSS compilation order -->
+   <style>
+     html, body { background-color: #0d1117 !important; color: #e6edf3 !important; }
+     .wrapper   { background-color: #0d1117 !important; }
+     header     { background-color: #161b22 !important; border-right: 1px solid #30363d !important; }
+     section    { background-color: #0d1117 !important; }
+     h1,h2,h3,h4,h5,h6 { color: #e6edf3 !important; }
+     a          { color: #a78bfa !important; }
+   </style>
    <!--[if lt IE 9]>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
    <![endif]-->
@@ -49,12 +58,6 @@
       <section>
          {{ content }}
       </section>
-      <footer>
-         {% if site.github.is_project_page %}
-         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-         {% endif %}
-         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
    </div>
    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 </body>

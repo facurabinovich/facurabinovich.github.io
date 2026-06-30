@@ -1,10 +1,6 @@
 title: Facundo Rabinovich
 logo: "images/personal-photo2.png?raw=true"
-description: >
-  <br>
-  Systems Engineer focused on AI Engineering and Data Science.
-  <br><br>
-  Building end-to-end systems combining LLMs, machine learning, and data pipelines.
+description: "Systems Engineer focused on AI Engineering and Data Science. Building end-to-end systems combining LLMs, machine learning, and data pipelines."
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0
