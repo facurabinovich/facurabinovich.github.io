@@ -1,6 +1,3 @@
----
----
-
 @import "{{ site.theme }}";
 
 /* --- Global Dark Theme Overrides --- */
@@ -25,12 +22,13 @@ strong, b {
 }
 
 header h1 {
-  font-size: 28px !important; 
+  font-size: 28px !important;
   line-height: 1.2;
+  color: #a78bfa !important;
 }
 
 a {
-    color: #58a6ff !important;
+    color: #a78bfa !important;
 }
 
 a:hover {
@@ -42,7 +40,7 @@ hr {
 }
 
 footer {
-  display: none !important; 
+  display: none !important;
 }
 
 /* --- Project Button Styles --- */
