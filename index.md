@@ -1,6 +1,41 @@
-## Selected Projects in Data Science, Analytics & Machine Learning
+## Selected Projects in AI Engineering, Data Science & Machine Learning
 
-Building end-to-end data products combining machine learning, analytics, ETL pipelines, and interactive web applications.
+Building end-to-end AI systems and data products combining LLMs, machine learning, analytics, ETL pipelines, and interactive web applications.
+
+---
+
+# 🏦 CRM AI — Banking Assistant
+
+Conversational banking assistant combining **Tool Calling** and **RAG** built on the Anthropic Claude API. Agentic system where Claude autonomously decides which tools to use based on user intent.
+
+### Features
+
+* Agentic tool calling — Claude decides which tool to invoke based on intent
+* 6 custom tools (balance, payments, limit requests, semantic search)
+* Hybrid RAG: semantic chunking over a 48-page policy document
+* ChromaDB + VoyageAI embeddings (`voyage-3-large`)
+* Flask frontend with real-time SSE streaming
+* Dockerized with automatic DB setup and RAG indexing on first run
+
+### Tech Stack
+
+Python · Anthropic Claude API · ChromaDB · VoyageAI · Flask · SQLite · Docker
+
+<div class="project-actions">
+  <a class="project-button secondary" href="https://github.com/facurabinovich/crm-ai" target="_blank">GitHub Repo</a>
+</div>
+
+**Tool Calling** — Claude consulta saldo, fechas y límite de tarjeta en tiempo real:
+
+<div class="project-gallery">
+  <img src="https://raw.githubusercontent.com/facurabinovich/crm-ai/main/gifs/tool-calling%20example.gif"/>
+</div>
+
+**RAG** — búsqueda semántica sobre la base de conocimiento del banco:
+
+<div class="project-gallery">
+  <img src="https://raw.githubusercontent.com/facurabinovich/crm-ai/main/gifs/rag%20example.gif"/>
+</div>
 
 ---
 
@@ -36,6 +71,7 @@ Python · MySQL · Streamlit · scikit-learn · Plotly · Spotify API
 </div>
 
 ---
+
 # 🎾 ATP Tennis Match Predictor
 
 End-to-end ML system trained on 66k+ ATP matches (2000–2024).
@@ -68,16 +104,15 @@ Python · LightGBM · scikit-learn · pandas · MySQL · Streamlit
 
 ## About Me
 
-Systems Engineer and Data Analyst focused on Machine Learning, analytics, and end-to-end data products.
+Systems Engineer focused on AI Engineering and Data Science, building end-to-end systems that combine LLMs, machine learning, and data pipelines.
 
-Currently building ML systems, ETL pipelines, and interactive analytics applications using Python, SQL, and cloud technologies.
+Currently working as a Data Analyst developing ETL pipelines, dashboards, and analytics solutions using Python, SQL, and cloud technologies.
 
 Interested in:
 
-* Machine Learning
+* AI Engineering & LLM Applications
+* Machine Learning & Predictive Modeling
 * Recommendation Systems
-* Deep Learning
-* Computer Vision
 * End-to-End Data Products
 
 ---
@@ -87,8 +122,16 @@ Interested in:
 ### Languages & Databases
 
 * Python
-* SQL (MySQL and PostgreSQL)
+* SQL (MySQL and SQLite)
 * Bash
+
+### AI Engineering
+
+* Anthropic Claude API
+* Tool Calling & Agentic Systems
+* RAG (Retrieval-Augmented Generation)
+* ChromaDB · VoyageAI
+* Docker
 
 ### Data Science & ML
 
@@ -126,6 +169,6 @@ Interested in:
 ---
 
 <p style="font-size:11px; color: #8b949e;">
-Template originally forked from 
+Template originally forked from
 <a href="https://github.com/evanca/quick-portfolio" style="color: #58a6ff;">evanca</a>
 </p>
